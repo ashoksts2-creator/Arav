@@ -1,0 +1,6 @@
+{
+  "name": "Document Drive",
+  "description": "Organize, scan, upload, star, tag, and search all your documents with secure local storage and smart category management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
